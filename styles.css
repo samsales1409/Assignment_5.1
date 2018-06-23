@@ -1,0 +1,15 @@
+body{
+  background: linear-gradient(lightyellow, yellow);
+}
+
+
+#ls {
+    height: 140px;
+    width: 70px;
+    border:1px solid blue;
+    padding: 20px;
+    color:white;
+    background-color: blue;
+    border-radius: 50%;
+
+}
